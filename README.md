@@ -9,3 +9,11 @@ This book comprehensively integrates Angular into your .Net application, then ru
 Starting off with building blocks of Angular, we gradually move into integrating TypeScript and ES6. You will get confident in building Angular single page applications and using Angular for prototyping components. You will then move on to building web services and full-stack web application using ASP.NET Web API. Finally, you will learn the development process focused on rapid delivery and testability for all application layers.
 
 At the end of the book, you can call yourself as a fullstack web developer
+
+## Also available at Amazon
+* [Buy from Amazon US](http://amzn.to/2xWOxXo)
+
+* [Buy from Amazon UK](http://amzn.to/2wSE2Yi)
+
+* [Buy from Amazon India](http://amzn.to/2xhiX9L)
+
